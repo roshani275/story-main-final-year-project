@@ -12,3 +12,4 @@ timeout /t 5 /nobreak >nul
 :loop
 ollama run phi "Generate Text"
 goto loop
+
